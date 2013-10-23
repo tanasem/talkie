@@ -21,4 +21,4 @@ Small sample project for students
    Все внесенные изменения тоже закоммитить в репозиторий.
 
 
-резнтацию положу на Wiki здесь же.
+Ссылка на презнтацию (было решено положить ее на Google Drive): https://docs.google.com/file/d/0B_D5AVi3D1-bOC1FbUFKUVRaZEE/edit?usp=sharing 
